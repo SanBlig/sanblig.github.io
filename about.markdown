@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Sanjana Baliga.
-
+Hi! I'm Sanjana. I am a master's student in Computer Science at the University of Southern California. I will be graduating in May 2023.
 
 
 ### Experience
